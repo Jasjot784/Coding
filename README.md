@@ -5,6 +5,10 @@
 ## Prefix hashing: when you have to find prefix in arrays
 
 
+## String searching : Rabin-Karp and Knuth-Morris-Pratt Algortihms
+[Link File] Leetcode_Contest_15-09-24.cpp
+
+
 
 
 
