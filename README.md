@@ -6,7 +6,7 @@
 
 
 ## String searching : Rabin-Karp and Knuth-Morris-Pratt Algortihms
-[Link File] Coding/Leetcode_Contest_15-09-24.cpp
+[a relative link] (Leetcode_Contest_15-09-24.cpp)
 
 
 
