@@ -8,6 +8,8 @@
 ## String searching : Rabin-Karp and Knuth-Morris-Pratt Algortihms
 ### Leetcode_Contest_15-09-24.cpp
 
+## Go ahead and learn trie, segment tree
+
 
 
 
