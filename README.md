@@ -10,6 +10,8 @@
 
 ## Go ahead and learn trie, segment tree
 
+## LC.3934: Use a rolling hash to compute the uniqueness of subarray and use binary search because because if n/2 is passing , then we go towards n/4 else 3n/4 , I hope you understand
+
 
 
 
