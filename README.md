@@ -12,6 +12,8 @@
 
 ## LC.3934: Use a rolling hash to compute the uniqueness of subarray and use binary search because because if n/2 is passing , then we go towards n/4 else 3n/4 , I hope you understand
 
+## LC.4123: We have to choose even number of elements inside,because endpoints always counts , for that there is a standard DP procedure, if already even, take even or odd+x , if odd take odd or eve+x, it is like a skip-select DP
+
 
 
 
