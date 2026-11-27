@@ -14,6 +14,8 @@
 
 ## LC.4123: We have to choose even number of elements inside,because endpoints always counts , for that there is a standard DP procedure, if already even, take even or odd+x , if odd take odd or eve+x, it is like a skip-select DP
 
+## LC.714 : We are reusing the concept of even and odd DP, although the question is entirely related to stocks
+
 ## ABC485: A good DP problem, sometimes the simplest solutions are accepted and optimizations are not required
 
 
