@@ -18,6 +18,8 @@
 
 ## ABC485: A good DP problem, sometimes the simplest solutions are accepted and optimizations are not required
 
+## LC3947: very similar to LC3946, see how the constraints has led us to go from DP to greedy, did you even thought of greedy while attempting 3946?
+
 
 
 
